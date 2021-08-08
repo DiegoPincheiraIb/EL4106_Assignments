@@ -1,9 +1,9 @@
 # EL4106_Assignments
 Set of 6 assignments and final project for the course EL4106 - Computational Intelligence, taken in Fall 2020.
 
-Topics:
+Main topics:
 * Data analysis & visualization.
-* Classifiers: Naive Bayes, SVM, Neural Networks.
+* Classifiers: MLE, Naive Bayes, SVM, Neural Networks, CNN.
 * Clusterings: K-Means, DBSCAN.
 
 Libraries:
@@ -13,3 +13,11 @@ Libraries:
 * Seaborn
 * Keras
 * Pytorch
+
+Assignments:
+1.  Data analysis & visualization using numpy and pandas.
+2.  Binary classification problem using histograms, MLE, and Naive Bayes.
+3.  Binary classification problem using SMV.
+4.  Digit classification problem using neural networks.
+5.  Clustering problem: mice proteins.
+6.  igit classification problem using Convolutional neural networks.
