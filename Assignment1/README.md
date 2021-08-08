@@ -1,7 +1,7 @@
 **ES:**
 
 El objetivo de esta tarea es analizar y visualizar datos usando las bibliotecas de software pandas, numpy
-y matplotlib. Se utilizará el set de datos** HTRU2 Data Set**, el cual forma parte del UC Irvine Machine Learning Repository:
+y matplotlib. Se utilizará el set de datos **HTRU2 Data Set**, el cual forma parte del UC Irvine Machine Learning Repository:
 - El set de datos a usar contiene **8 características**
 obtenidas analizando señales de radiotelescopios. 
 - El dataset contiene una novena columna, la que
