@@ -9,13 +9,15 @@ Main topics:
 * Classifiers: MLE, Naive Bayes, SVM, Neural Networks, CNN.
 * Clusterings: K-Means, DBSCAN.
 
-Libraries:
+Main libraries:
 * Pandas
 * Numpy
 * Matplotlib
 * Seaborn
+* Tensorflow
 * Keras
 * Pytorch
+* Sklearn
 
 Assignments:
 1.  Data analysis & visualization using numpy and pandas.
