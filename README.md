@@ -1,6 +1,7 @@
 # EL4106_Assignments
 
 **EN:**
+
 Set of 6 assignments and final project for the course EL4106 - Computational Intelligence, taken in Fall 2020.
 
 Main topics:
