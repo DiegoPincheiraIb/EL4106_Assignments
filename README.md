@@ -2,7 +2,7 @@
 
 **ES:**
 
-Conjunto de 6 tareas y un proyecto final para el curso E4106 - Inteligencia Computacional, rendido en Otoño 2020.
+Conjunto de 6 tareas y un proyecto final para el curso EL4106 - Inteligencia Computacional, rendido en Otoño 2020.
 
 Tópicos principales abordados:
 * Visualización & análisis de datos.
